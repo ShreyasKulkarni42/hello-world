@@ -41,7 +41,7 @@ public class GitDemo {
      * i.e. if num = 1234
      *  the function will return 4321
      *****/
-    public double reverseNumber(int num){
+    public double reverseNumber(int num){  
         double factorialNumber = 0;
         
         while( num != 0 ) {
